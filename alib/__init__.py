@@ -21,7 +21,7 @@ def text():
         text = json.load(f_obj)
     with open(sys.path[0] + '/README.md','r') as f_obj:
         #~ print(f_obj.readlines())
-        text['about'] = f_obj.read()
+        text['about'] = f_obj.read()[13:]
         text['about_line'] = f_obj.readlines()
     return text
 
