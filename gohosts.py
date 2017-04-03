@@ -8,7 +8,6 @@ GoPlay 工作室
 提供hosts文件,android版也由其开发
 lerist@163.com
 
-
 Alonet 工作室
 进行GoHostsLinux程序开发
 @zsh2401
