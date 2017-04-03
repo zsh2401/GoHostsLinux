@@ -1,4 +1,4 @@
-# gohostslinux
+# GoHostsLinux
 GoHostsLinux!  V1.0.0
 
 2017-04-03
