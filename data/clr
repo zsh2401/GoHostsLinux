@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "clear data"
+rm -rf install.lock
+rm -rf bak/*
+rm -rf ../alib/__pycache__
+
