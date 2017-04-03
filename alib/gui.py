@@ -122,7 +122,7 @@ class MainGui(mp.MainProgram):
         
     def about_messagebox(self):
         '''用信息框显示相关信息'''
-        tkm.showinfo(title = '关于GoHostsLinux! 0.8',message = self.text['about'])
+        tkm.showinfo(title = '关于GoHostsLinux!',message = self.text['about'])
     def run(self):
         self.master.mainloop()
     
