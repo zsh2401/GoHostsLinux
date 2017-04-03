@@ -6,14 +6,13 @@ GoHostsLinux!  V1.0.0
 帮助您快速科学上网的Hosts替换程序,使用python3运行
 本程序可以通过极为简单的方式,为您提供免费而高效的翻墙服务
 
-Go Play
 @lerist 提供hosts
 
 Alonet
 @zsh2401 开发GoHostsLinux主要程序
 
 本程序运行需要Python3,并且本程序仅可在Linux进行使用!!!!
-hosts文件归GoPlay工作室版权所有,本程序开发已经过授权
+hosts文件由lerist提供,本程序开发已经过授权
 目前本程序仍然可能有许多缺陷,请通过下面的联系方式进行反馈!
 
 声明:
