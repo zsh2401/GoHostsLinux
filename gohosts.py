@@ -4,7 +4,7 @@
 GoHostsLinux   V1.0.0
 GHL
 
-GoPlay 工作室
+lerist
 提供hosts文件,android版也由其开发
 lerist@163.com
 
